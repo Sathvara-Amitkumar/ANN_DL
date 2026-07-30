@@ -26,40 +26,6 @@ The trained model is deployed using **Streamlit Community Cloud**, allowing user
 | Optimizer | Adam |
 | Loss Function | Categorical Crossentropy |
 | Activation Functions | ReLU, Softmax |
-| Input Features | 4 |
-| Output Classes | 3 |
-
----
-
-## 📊 Input Features
-
-The model predicts flower species using the following measurements (in centimeters):
-
-- Sepal Length
-- Sepal Width
-- Petal Length
-- Petal Width
-
----
-
-## 🌼 Output Classes
-
-- Iris Setosa
-- Iris Versicolor
-- Iris Virginica
-
----
-
-## ✨ Features
-
-- Beautiful Streamlit UI
-- Deep Learning Prediction
-- Prediction Confidence
-- Probability Scores
-- Pre-trained ANN Model
-- Interactive Sidebar
-- Example Inputs
-- Responsive Design
 
 ---
 
@@ -87,7 +53,6 @@ ANN_DL/
 ├── README.md
 └── iris_prediction.ipynb
 ```
-
 ---
 
 ## ▶️ Run Locally

@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification using Artificial Neural Network (ANN) - [Project Demo](https://iris-ann-classifier.streamlit.app/)
+# 🌸 Iris Flower Classification using Artificial Neural Network (ANN) - [Live Demo](https://iris-ann-classifier.streamlit.app/)
 
 A Deep Learning web application built with **TensorFlow/Keras** and **Streamlit** that predicts the species of an Iris flower based on four flower measurements.
 ---
